@@ -39,24 +39,7 @@ that's great!
   <img src="https://github-readme-stats-fast.vercel.app/api?username=TheZenHippie&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
----
 
-### 📝 Recent Articles
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### ⚡ Recent Activity
-<!-- START_SECTION:activity -->
-<!-- END_SECTION:activity -->
-
----
-
-### 📫 Connect With Me
-
-
-```
 
 
 
