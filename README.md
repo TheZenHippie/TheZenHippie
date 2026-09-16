@@ -28,6 +28,11 @@ that's great!
 
 ---
 
+### 📊 GitHub Stats
+<p align="left">
+</p>
+---
+
 ### 📝 Recent Articles
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -38,18 +43,9 @@ that's great!
 <!-- START_SECTION:activity -->
 <!-- END_SECTION:activity -->
 
----
-
-### 📊 GitHub Stats
-<p align="left">
-  ![Your GitHub Stats](https://vercel.app)
-</p>
-
----
 
 ### 📫 Connect With Me
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+
 
 <!--
 **TheZenHippie/TheZenHippie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
