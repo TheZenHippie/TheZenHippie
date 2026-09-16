@@ -42,7 +42,7 @@ that's great!
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheZenHippie&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username="TheZenHippie"&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
